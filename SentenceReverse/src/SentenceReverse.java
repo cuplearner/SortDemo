@@ -10,6 +10,7 @@ public class SentenceReverse {
         String s = "my name is shenchen, and I am 27 years old.";
         String s1 = sentenceReverse(s);
         System.out.println("s1 = " + s1);
+		System.out.println("s1 = " + s1);
     }
 
     public static String sentenceReverse(String sentence){
